@@ -4,8 +4,7 @@
 # Execute with great care!
 
 with open("data/oreo_names.txt") as f:
-    for line in f:
-        lines = [line.rstrip() for line in f]
+    lines = [line.rstrip() for line in f]
 
 names = sorted([line for line in lines])
 
