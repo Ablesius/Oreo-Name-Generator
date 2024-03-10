@@ -53,7 +53,8 @@ Dodecatuple Stuf
 Double
 Double Stuf
 Doughnut
-Dulche de Leche
+Dulce de Leche
+Fellowship of the Ring
 Filled
 Firework Cookies
 Football
@@ -122,6 +123,7 @@ Red-Colored
 Reese's Pieces
 Reese's Variety
 Retirement
+Return of the King
 Rocky Road
 Root Beer Float
 S'mores
@@ -131,7 +133,6 @@ Shrek
 Smokey
 Smokey Barbecue
 Soft
-Soft Cookies
 Soft Cookies
 Spicy Hot
 SpongeBob
@@ -148,10 +149,12 @@ Toasted Coconut
 Toasted Coconut Cookie
 Tom Hanks' Personal Homemade Cookies
 Triple
+Two Towers
 Valentine's Day
 Vegan
 Waffles
 Watermelon
 Wedding Cake
 WiFi
+Yas Queen!
 Yellow Frosting
